@@ -23,7 +23,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>fullstack-course4/index.html at master · jhu-ep-coursera/fullstack-course4 · GitHub</title>
+    <title>fullstack-course4/SpeakHello.js at master · jhu-ep-coursera/fullstack-course4 · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -55,7 +55,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="75D4B6ED:5EFE:E7F3D55:570F3166" name="octolytics-dimension-request_id" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="75D4B6ED:4DBB:66559BE:570F313B" name="octolytics-dimension-request_id" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="ZDliZDg1NTBmNmUzZmU4YTVlMjAyZmMzYjViODg0MWVlNGY4ZGRkN2QwZmI4MmM2Yjc3M2I2N2E0MTkxMWY4NHx7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIxMi4xODIuMjM3IiwicmVxdWVzdF9pZCI6Ijc1RDRCNkVEOjVFRkU6RTdGM0Q1NTo1NzBGMzE2NiIsInRpbWVzdGFtcCI6MTQ2MDYxMzQ3OH0=">
+      <meta name="js-proxy-site-detection-payload" content="ZDJmN2MwOWI5ZjMyODZjMTc3ZDc2NmNiOWQ5NmFiNGZiMGE2NjliODdhYTk0Y2JhMWUzMmVkOGQ3OWMyYmExNnx7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIxMi4xODIuMjM3IiwicmVxdWVzdF9pZCI6Ijc1RDRCNkVEOjREQkI6NjY1NTlCRTo1NzBGMzEzQiIsInRpbWVzdGFtcCI6MTQ2MDYxMzQzNn0=">
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
       <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
@@ -86,7 +86,7 @@
   <link href="https://github.com/jhu-ep-coursera/fullstack-course4/commits/master.atom" rel="alternate" title="Recent Commits to fullstack-course4:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/harder/index.html" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/harder/SpeakHello.js" data-pjax-transient>
   <script type="text/javascript" src="https://gc.kis.scr.kaspersky-labs.com/1B74BD89-2A22-4B93-B451-1C9E1052A0EC/main.js" charset="UTF-8"></script></head>
 
 
@@ -124,7 +124,7 @@
 
       <div class="site-header-actions">
             <a class="btn btn-primary site-header-actions-btn" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
-          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4%2Fblob%2Fmaster%2FAssignments%2Fversion2%2Fmodule4-solution-starter%2Fharder%2Findex.html" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4%2Fblob%2Fmaster%2FAssignments%2Fversion2%2Fmodule4-solution-starter%2Fharder%2FSpeakHello.js" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
       </div>
 
         <nav class="site-header-nav site-header-nav-secondary">
@@ -277,9 +277,9 @@
 
     
 
-<a href="/jhu-ep-coursera/fullstack-course4/blob/c675c1a2224f9ac92249a6ce2c36df84f5dd8ec2/Assignments/version2/module4-solution-starter/harder/index.html" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/jhu-ep-coursera/fullstack-course4/blob/c675c1a2224f9ac92249a6ce2c36df84f5dd8ec2/Assignments/version2/module4-solution-starter/harder/SpeakHello.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:2dc35cd15e9d12ea32d84a78c80cd345 -->
+<!-- blob contrib key: blob_contributors:v21:ed8a369261b1c328bc24600498a7d6fd -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -321,7 +321,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/jhu-ep-coursera/fullstack-course4/blob/gh-pages/Assignments/version2/module4-solution-starter/harder/index.html"
+               href="/jhu-ep-coursera/fullstack-course4/blob/gh-pages/Assignments/version2/module4-solution-starter/harder/SpeakHello.js"
                data-name="gh-pages"
                data-skip-pjax="true"
                rel="nofollow">
@@ -331,7 +331,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/jhu-ep-coursera/fullstack-course4/blob/jasonwr-lecture22-before-fix/Assignments/version2/module4-solution-starter/harder/index.html"
+               href="/jhu-ep-coursera/fullstack-course4/blob/jasonwr-lecture22-before-fix/Assignments/version2/module4-solution-starter/harder/SpeakHello.js"
                data-name="jasonwr-lecture22-before-fix"
                data-skip-pjax="true"
                rel="nofollow">
@@ -341,7 +341,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/harder/index.html"
+               href="/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/harder/SpeakHello.js"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -378,11 +378,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4"><span>fullstack-course4</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments"><span>Assignments</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2"><span>version2</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter"><span>module4-solution-starter</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter/harder"><span>harder</span></a></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4"><span>fullstack-course4</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments"><span>Assignments</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2"><span>version2</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter"><span>module4-solution-starter</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter/harder"><span>harder</span></a></span><span class="separator">/</span><strong class="final-path">SpeakHello.js</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/jhu-ep-coursera/fullstack-course4/contributors/master/Assignments/version2/module4-solution-starter/harder/index.html">
+<include-fragment class="commit-tease" src="/jhu-ep-coursera/fullstack-course4/contributors/master/Assignments/version2/module4-solution-starter/harder/SpeakHello.js">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -397,9 +397,9 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/jhu-ep-coursera/fullstack-course4/raw/master/Assignments/version2/module4-solution-starter/harder/index.html" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/jhu-ep-coursera/fullstack-course4/blame/master/Assignments/version2/module4-solution-starter/harder/index.html" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/jhu-ep-coursera/fullstack-course4/commits/master/Assignments/version2/module4-solution-starter/harder/index.html" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/jhu-ep-coursera/fullstack-course4/raw/master/Assignments/version2/module4-solution-starter/harder/SpeakHello.js" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/jhu-ep-coursera/fullstack-course4/blame/master/Assignments/version2/module4-solution-starter/harder/SpeakHello.js" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/jhu-ep-coursera/fullstack-course4/commits/master/Assignments/version2/module4-solution-starter/harder/SpeakHello.js" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -420,79 +420,116 @@
   </div>
 
   <div class="file-info">
-      17 lines (16 sloc)
+      25 lines (19 sloc)
       <span class="file-info-divider"></span>
-    344 Bytes
+    851 Bytes
   </div>
 </div>
 
   
 
-  <div itemprop="text" class="blob-wrapper data type-html">
+  <div itemprop="text" class="blob-wrapper data type-javascript">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">&lt;!DOCTYPE html&gt;</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// STEP 2: Wrap the entire contents of SpeakHello.js inside of an IIFE</span></td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">html</span>&gt;</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// See Lecture 52, part 2</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">head</span>&gt;</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">meta</span> <span class="pl-e">charset</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>utf-8<span class="pl-pds">&quot;</span></span>&gt;</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">title</span>&gt;Module 4 Solution Starter&lt;/<span class="pl-ent">title</span>&gt;</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// STEP 3: Create an object, called &#39;helloSpeaker&#39; to which you will attach</span></td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// the &quot;speak&quot; method and which you will expose to the global context</span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    <span class="pl-k">var</span> names <span class="pl-k">=</span> []; <span class="pl-c">// DO NOT REMOVE</span></span></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// See Lecture 52, part 1</span></td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// var helloSpeaker =</span></td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>SpeakHello.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>SpeakGoodBye.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// DO NOT attach the speakWord variable to the &#39;helloSpeaker&#39; object.</span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>script.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">var</span> speakWord <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Hello<span class="pl-pds">&quot;</span></span>;</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">head</span>&gt;</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">body</span>&gt;</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// STEP 4: Rewrite the &#39;speak&#39; function such that it is attached to the</span></td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">h1</span>&gt;Module 4 Solution Starter&lt;/<span class="pl-ent">h1</span>&gt;</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// helloSpeaker object instead of being a standalone function.</span></td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">body</span>&gt;</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// See Lecture 52, part 2</span></td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">html</span>&gt;</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-k">function</span> <span class="pl-en">speak</span>(<span class="pl-smi">name</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">console</span>.<span class="pl-c1">log</span>(speakWord <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&quot;</span> <span class="pl-pds">&quot;</span></span> <span class="pl-k">+</span> name);</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// STEP 5: Expose the &#39;helloSpeaker&#39; object to the global scope. Name it</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// &#39;helloSpeaker&#39; on the global scope as well.</span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// See Lecture 52, part 2</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// (Note, Step 6 will be done in the SpeakGoodBye.js file.)</span></td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// xxxx.xxxx = helloSpeaker;</span></td>
       </tr>
 </table>
 
@@ -533,7 +570,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" title="GitHub " version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.04663s from github-fe154-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.05878s from github-fe154-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
